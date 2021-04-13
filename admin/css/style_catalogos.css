@@ -1,0 +1,21 @@
+* {
+    font-family: "Maven Pro", sans-serif;
+    font-size: 15px;
+    color: #000;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a {
+    color: #ffffff;
+}
+
+.bg-info {
+    background-color: #e9630b !important;
+}
+
+.text-info {
+    color: #e9630b !important;
+}
