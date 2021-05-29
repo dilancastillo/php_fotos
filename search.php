@@ -29,7 +29,6 @@ include('header.php');
                         <li><a class="dropdown-item" href="./catalogos/estilker.php">Estilker</a></li>
                         <li><a class="dropdown-item" href="./catalogos/diaco.php">Diaco</a></li>
                         <li><a class="dropdown-item" href="./catalogos/paz_del_rio.php">Paz del Río</a></li>
-                        <li><a class="dropdown-item" href="./catalogos/estilker.php">Estilker</a></li>
                         <li><a class="dropdown-item" href="./catalogos/mathiesen.php">Mathiesen</a></li>
                         <li><a class="dropdown-item" href="./catalogos/eterboard.php">Eterboard</a></li>
                         <li><a class="dropdown-item" href="./catalogos/acerfo.php">Acerfo</a></li>
